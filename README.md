@@ -1,4 +1,4 @@
 # hello_world
-it's a "hello-world" file. 
+this is a "hello-world" file. 
 
-hello, human!
+hello, human (specifically Sapiens)!
